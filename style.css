@@ -1,4 +1,28 @@
+
+
+
 body {
     background: darkslategray;
     text-align: center;
+    color:gainsboro;
+    font-family: monospace;
+      margin: 0 auto;
+      width: 60%;
+      padding-bottom: 40px;
+
+  }
+
+  img {
+    border-radius: 50%;
+  }
+
+  div #summary {
+    border-left-width: 200px;
+  }
+
+  div #contact {
+
+    font-size: largera;
+    background:slategray;
+   
   }
